@@ -4,7 +4,7 @@
 1 stk 0.1 uF kondensator (ikke elektrolyt)
 2 stk 100 nF kondensator ( ikke lyt )
 
-2 stk 1 ohms effektmodstand ( skal kunne klare 2 A ) = 2V*2A = 4W - skal hentes i værkstedet.
+2 stk 1 ohms effektmodstand ( skal kunne klare 2 A ) = 2V*2A = 4W - skal hentes i værkstedet.t
 8 stk 1N4148 eller mere strømstærk diode.
 
 header pins mv.
